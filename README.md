@@ -2,15 +2,16 @@
 <h3 align="left">Computer Engineering student at ITU</h3>
 <img align="right" alt="parrot" width="400" src="https://camo.githubusercontent.com/942365ce7bb3c8d6dbe5ae79203f7873ec67f33c4241d2324798427ab8d42be5/687474703a2f2f692e67697068792e636f6d2f6c3371327a567236637539356e46364f342e676966">
 
-📫 Reach me at **nnefe03@gmail.com**
 
 ### Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/nida-nur-efe-652671197" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<div align="left">
+  <a href="mailto:nnefe03@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-</p>
-
+  <a href="https://linkedin.com/in/nida-nur-efe-652671197" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 
 ### Languages and Tools
