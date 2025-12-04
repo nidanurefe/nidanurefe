@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Nida</h1>
 <h3 align="left">Computer Engineering student at ITU</h3>
 
-<img align="right" alt="parrot" width="200" src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif">
+<img align="right" alt="parrot" width="400" src="https://camo.githubusercontent.com/942365ce7bb3c8d6dbe5ae79203f7873ec67f33c4241d2324798427ab8d42be5/687474703a2f2f692e67697068792e636f6d2f6c3371327a567236637539356e46364f342e676966">
 
 📫 Reach me at **nnefe03@gmail.com**
 
