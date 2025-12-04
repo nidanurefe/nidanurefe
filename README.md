@@ -111,4 +111,10 @@
 
   </a>
 
+
+
+
+  ![snake gif](https://github.com/nidanurefe/nidanurefe/blob/output/github-snake-dark.svg)
+
+
 </div>
